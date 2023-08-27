@@ -2,6 +2,11 @@
 
 Objective is to provide a Rust-native implementation of OSQP algorithm that can potentially be used for the applications like MPC, Trajectory Optimization, etc.
 
+#### How to use
+
+Run the following command
+
+`cargo test`
 
 #### QP Problem
 
