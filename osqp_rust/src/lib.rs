@@ -4,7 +4,7 @@ mod osqp {
 }
 
 #[cfg(test)]
-
+#[allow(unused_imports)]
 mod tests {
     use super::osqp::proximal_operator::proximal_operator;
     use super::osqp::admm_update::admm_update;
