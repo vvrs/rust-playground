@@ -1,7 +1,11 @@
-#### Notes
+#### Tutorials
+
+**Book**: https://doc.rust-lang.org/stable/book/  
+**Videos**: https://youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8&feature=shared
 
 
 ##### Project Setup
+
 * Compile single file
 
     `rustc <file_name>`

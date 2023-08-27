@@ -13,7 +13,11 @@
 				"tamasfe.even-better-toml",
 				"GitHub.copilot",
 				"GitHub.copilot-chat",
-				"rust-lang.rust-analyzer"
+				"rust-lang.rust-analyzer",
+				"yzhang.markdown-all-in-one",
+				"DavidAnson.vscode-markdownlint",
+				"bierner.markdown-emoji",
+				"jebbs.plantuml"
 			],
 			"settings": {
 				"editor.formatOnSave": true,
