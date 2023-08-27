@@ -1,3 +1,5 @@
+pub mod interface;
+
 mod osqp {
     pub mod proximal_operator;
     pub mod admm_update;
