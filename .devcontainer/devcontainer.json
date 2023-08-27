@@ -9,7 +9,10 @@
 				"matklad.rust-analyzer",
 				"serayuzgur.crates",
 				"vadimcn.vscode-lldb",
-				"ms-azuretools.vscode-docker"
+				"ms-azuretools.vscode-docker",
+				"tamasfe.even-better-toml",
+				"GitHub.copilot",
+				"GitHub.copilot-chat"
 			],
 			"settings": {
 				"editor.formatOnSave": true,
