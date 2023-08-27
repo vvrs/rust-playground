@@ -1,25 +1,24 @@
 {
 	"name": "Rust Playground",
-    "customizations": {
-        "vscode": {
-
-	"extensions": [
-		"cschleiden.vscode-github-actions",
-		"ms-vsliveshare.vsliveshare",
-		"matklad.rust-analyzer",
-		"serayuzgur.crates",
-		"vadimcn.vscode-lldb",
-		"ms-azuretools.vscode-docker"
-	],
 	"dockerFile": "Dockerfile",
-	"settings": {
-		"editor.formatOnSave": true,
-		"terminal.integrated.shell.linux": "/usr/bin/zsh",
-		"files.exclude": {
-			"**/CODE_OF_CONDUCT.md": true,
-			"**/LICENSE": true
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"cschleiden.vscode-github-actions",
+				"ms-vsliveshare.vsliveshare",
+				"matklad.rust-analyzer",
+				"serayuzgur.crates",
+				"vadimcn.vscode-lldb",
+				"ms-azuretools.vscode-docker"
+			],
+			"settings": {
+				"editor.formatOnSave": true,
+				"terminal.integrated.shell.linux": "/usr/bin/zsh",
+				"files.exclude": {
+					"**/CODE_OF_CONDUCT.md": true,
+					"**/LICENSE": true
+				}
+			}
 		}
 	}
-}
-}
 }
