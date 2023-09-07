@@ -17,7 +17,8 @@
 				"yzhang.markdown-all-in-one",
 				"DavidAnson.vscode-markdownlint",
 				"bierner.markdown-emoji",
-				"jebbs.plantuml"
+				"jebbs.plantuml",
+				"ms-vscode.sublime-keybindings"
 			],
 			"settings": {
 				"editor.formatOnSave": true,

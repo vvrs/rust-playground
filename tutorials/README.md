@@ -56,3 +56,6 @@
             }
         };
     ```
+* Ownership
+
+![Memory Management](docs/imgs/mem-mng.png)
